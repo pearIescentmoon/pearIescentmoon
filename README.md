@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.imgur.com/r5QUUto.gif">
 <br>
-<img src="https://i.imgur.com/Z0NFndR.png" width="30" height="20"> <img src="https://i.imgur.com/U4AkHDW.png" width="30" height="20"> <img src="https://i.imgur.com/8Lb7MJg.png" width="30" height="20">
+<img src="https://i.imgur.com/Z0NFndR.png" alt="Bigender Flag" width="30" height="20"> <img src="https://i.imgur.com/U4AkHDW.png" alt="Unlabeled Flag" width="30" height="20"> <img src="https://i.imgur.com/8Lb7MJg.png" alt="Cherrywolfgender Flag" width="30" height="20">
 <br>
 PEARL / ECLIPSE
 <br>
